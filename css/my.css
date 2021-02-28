@@ -1,0 +1,25 @@
+p {
+    margin : 0;
+}
+
+h2 {
+    margin-top : 0;
+}
+
+.status_header {
+    text-transform: uppercase;
+    border: 1px solid darkgreen;
+}
+
+#track {
+    cursor: pointer;
+}
+
+#responce, #status_history, .wait {
+    display: none;
+    margin-top: 10px;
+}
+
+#status_history {
+    text-align: center;
+}
